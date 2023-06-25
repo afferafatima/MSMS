@@ -1,0 +1,3 @@
+Airpods_Pro,9,25000
+Wireless_headphones,8,10000
+Earphones,4,1500

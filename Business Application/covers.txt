@@ -1,0 +1,5 @@
+IphoneCovers,4,1000
+SamsungCovers,3,800
+HuaweiCovers,7,500
+OppoCovers,5,400
+VivoCovers,12,350

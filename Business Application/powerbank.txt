@@ -1,0 +1,3 @@
+10000_MAH_powerbank,10,8000
+6000_MAH_powerbank,7,5000
+50000_MAH_Mpowerbank,5,3000

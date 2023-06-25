@@ -1,0 +1,3 @@
+Micro_USB_DataCable,-2,1000
+Type_C_DataCable,5,800
+LightningDataCable,4,1500

@@ -1,0 +1,6 @@
+Iphone,11,1231231
+Samsung,12,321
+Huawei,3,50000
+Oppo,8,40000
+Vivo,12,35000
+POCO,12,50000

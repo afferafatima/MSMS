@@ -1,0 +1,4 @@
+33WattAdopter,10,2500
+20WattAdopter,8,3
+12WattAdopter,5,1500
+5WattAdopter,3,1000
